@@ -1,0 +1,3 @@
+Python is useful for AI.
+Machine learning learns from data.
+Data cleaning is an important step.

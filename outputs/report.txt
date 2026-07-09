@@ -1,0 +1,19 @@
+CSV Student Score Analyzer
+--------------------------
+
+Student Records
+---------------
+Name: Alice, Score: 85.0, Attendance: 92.0%, Result: Pass
+Name: Ben, Score: 72.0, Attendance: 80.0%, Result: Pass
+Name: Cathy, Score: 90.0, Attendance: 95.0%, Result: Pass
+Name: David, Score: 45.0, Attendance: 60.0%, Result: Fail
+Name: Ella, Score: 58.0, Attendance: 75.0%, Result: Pass
+
+Summary
+-------
+Number of students: 5
+Average score: 70.00
+Students passed: 4
+Students failed: 1
+Top student: Cathy (90.00)
+Lowest student: David (45.00)
